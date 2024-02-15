@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou uma entusiasta da segurança da informação
+🔐 Eu sou uma entusiasta da segurança da informação
 
 🎓 Estudo [Análise e Desenvolvimento de Sistemas]
 

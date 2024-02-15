@@ -23,6 +23,7 @@
 
 ### Eu estou estudando... 🧩
 Cybersecurity Professional Certificate - Google
+
 Segurança da Informação Programa Desenvolve - Grupo Boticário
 
 ### GitHub Stats ⚡

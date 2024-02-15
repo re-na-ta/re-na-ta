@@ -1,4 +1,4 @@
-# Oi, me chamo Renata 👋
+# Oi, me chamo Renata # :diamond_shape_with_a_dot_inside:
 
 ### Sobre mim
 

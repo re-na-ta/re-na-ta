@@ -1,4 +1,4 @@
-# Oi, me chamo Renata # :diamond_shape_with_a_dot_inside:
+# Oi, me chamo Renata :diamond_shape_with_a_dot_inside:
 
 ### Sobre mim
 
@@ -8,7 +8,7 @@
 
 🔎 Também sou curiosa sobre [IA| Linguística| Livros| Gastronomia]
 
-📚 Lendo: []
+📚 Lendo: [The Coming Wave - Mustafa Suleyman]
 
 ### Eu já trabalhei com... 🔧
 
@@ -22,7 +22,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Eu estou estudando... 🧩
-
+Cybersecurity Professional Certificate - Google
+Segurança da Informação Programa Desenvolve - Grupo Boticário
 
 ### GitHub Stats ⚡
 <div>

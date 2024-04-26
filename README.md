@@ -10,6 +10,8 @@
 
 📚 Lendo: [The Coming Wave - Mustafa Suleyman]
 
+🐧 Me desafiando: [OverTheWire lv.5]
+
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**

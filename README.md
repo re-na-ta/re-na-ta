@@ -6,7 +6,7 @@
 
 🎓 Estudo [Análise e Desenvolvimento de Sistemas]
 
-🔎 Também sou curiosa sobre [IA| Linguística| Livros| Gastronomia]
+🔎 Também sou curiosa sobre [IA| Linguística| Livros]
 
 📚 Lendo: [The Coming Wave - Mustafa Suleyman]
 

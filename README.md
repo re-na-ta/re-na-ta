@@ -2,6 +2,8 @@
 
 ### Sobre mim
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/renat4.png" alt="TryHackMe">
+
 🔐 Eu sou uma entusiasta da cibersegurança
 
 🎓 Estudo [Análise e Desenvolvimento de Sistemas]
@@ -11,6 +13,10 @@
 📚 Lendo: [The Coming Wave - Mustafa Suleyman]
 
 🐧 Me desafiando: [OverTheWire lv.5]
+
+
+
+
 
 ### Eu já trabalhei com... 🔧
 

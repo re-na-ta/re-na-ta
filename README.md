@@ -1,7 +1,5 @@
 # Oi, me chamo Renata :diamond_shape_with_a_dot_inside:
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/renat4.png" alt="TryHackMe">
-
 
 ### Sobre mim
 🔐 Eu sou uma entusiasta da cibersegurança
@@ -13,6 +11,8 @@
 📚 Lendo: [The Coming Wave - Mustafa Suleyman]
 
 🐧 Me desafiando: [OverTheWire lv.5]
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/renat4.png" alt="TryHackMe">
 
 
 
@@ -26,6 +26,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ### Eu estou estudando... 🧩
 Cybersecurity Professional Certificate - Google

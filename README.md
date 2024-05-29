@@ -1,9 +1,9 @@
 # Oi, me chamo Renata :diamond_shape_with_a_dot_inside:
 
-### Sobre mim
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/renat4.png" alt="TryHackMe">
 
+
+### Sobre mim
 🔐 Eu sou uma entusiasta da cibersegurança
 
 🎓 Estudo [Análise e Desenvolvimento de Sistemas]
@@ -13,8 +13,6 @@
 📚 Lendo: [The Coming Wave - Mustafa Suleyman]
 
 🐧 Me desafiando: [OverTheWire lv.5]
-
-
 
 
 
@@ -34,12 +32,6 @@ Cybersecurity Professional Certificate - Google
 
 Segurança da Informação Programa Desenvolve - Grupo Boticário
 
-### GitHub Stats ⚡
-<div>
-<a href="https://github.com/re-na-ta">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=re-na-ta&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=re-na-ta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ### Entre em contato comigo! 📭
 <div>
